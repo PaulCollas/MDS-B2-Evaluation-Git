@@ -39,8 +39,10 @@ Pour rappel la création d'une branche doit contenir :
     * Un label : A faire, En cours, Fini (sur la droite)
 
 ### Partie Code /10
-- Respect de la sémantique HTML CSS /2
-- Commentaires dans le code /1
+- Respect de la sémantique HTML CSS /6
+- Respect de la charte graphique /1
+- Intégration des typographies, images... /1
+- Indentation, commentaires, architecture (dossiers bien rangés, fichiers ...) /2
 
 ### Bonus 
     * Rendre le menu responsive (avec un menu hamburger) /2

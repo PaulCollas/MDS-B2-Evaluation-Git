@@ -19,7 +19,7 @@ L'intégration de ce site respectera :
 
 ## 🔍 Le barème de l'évaluation
 
-- **Partie GIT / Github** /10
+### Partie GIT / Github /10
 - Création de 7 branches : 
     * Le menu /1
     * Le bloc header /1 
@@ -38,14 +38,14 @@ Pour rappel la création d'une branche doit contenir :
     * Une personne associée à la branche (sur la droite)
     * Un label : A faire, En cours, Fini (sur la droite)
 
-- **Partie Code** /10
+### Partie Code /10
 - Respect de la sémantique HTML CSS /2
 - Commentaires dans le code /1
 
-- **Bonus** :  
+### Bonus 
     * Rendre le menu responsive (avec un menu hamburger) /2
     * Tout le projet est en anglais /1
-    * Autres démarches (exemple : merge request, ...)
+    * Autres démarches (exemple : merge request, ...) sera récompensés
 
 ## 🌍 Conditions
 

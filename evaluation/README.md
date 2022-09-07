@@ -1,38 +1,58 @@
-# MDS - GIT, Github, HTML, CSS - Evaluation
+# Evaluation
 
 
 ## 💡 Introduction !
 
-![License Badge](https://img.shields.io/badge/license-MIT-green) 
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-
-
 Repository pédagogique pour les éléves de B2 à MyDigitalSchool.
 Ce repository comprends les différentes documentations de cours, les différentes sources et l'évaluation de fin de module.
+
 ## ✨ Objectif de l'évaluation
 
-Créer un site web pour la boulangerie "MyDigitalPain". 
+Créer l'intégration web d'une maquette XD. 
 
-La création de ce site respectera les différentes étapes de développement et de gestion de versions via GIT apprise en cours.
+L'intégration de ce site respectera : 
+* les différentes étapes de développement 
+* la gestion de versions via GIT
+* les régles HTML CSS
 
 ## 🎈 Les assets du projet 
 
 ## 🔍 Le barème de l'évaluation
 
-- **Partie GIT / Github** /20
-- Création de 5 branches : 
-    * Le menu
-    * Le slider
-    * Le 
+- **Partie GIT / Github** /10
+- Création de 7 branches : 
+    * Le menu /1
+    * Le bloc header /1 
+    * Le bloc "Méthodologie de travail" /1
+    * Le bloc des "compétences" /1
+    * Le bloc "Présentation de la classe & Travail d'équipe !" /1
+    * Le bloc contact /1
+    * Le bloc footer /1
 - Création d'un ReadMe complet /1
-- Ajout en tant d'administrateur dans votre projet /1
+- Réussir à merger les branches dans la branche main /2
 
 
-- **Partie HTML - CSS** /20
+Pour rappel la création d'une branche doit contenir :
+    * Un titre clair, exemple : "création du menu de naviation"
+    * Une description clair et qui fait comprendre ce qui va être fait qsur cette branche, exemple : "Création d'un menu avec les balises <ul> <li>, quatres <li> ..."
+    * Une personne associée à la branche (sur la droite)
+    * Un label : A faire, En cours, Fini (sur la droite)
 
-- **Bonus** :
-    * t
+- **Partie Code** /10
+- Respect de la sémantique HTML CSS /2
+- Commentaires dans le code /1
+- 
 
+- **Bonus** :  
+    * Rendre le menu responsive (avec un menu hamburger) /2
+    * Tout le projet est en anglais /1
+    * Autres démarches (exemple : merge request, ...)
+
+## 🌍 Conditions
+
+**L'évaluation se fait en binôme.**
+Date de rendu final : **11/10/2022**
+N'oubliez pas de m'ajouter en tant qu'**administrateur** sur votre projet, sinon je ne pourrais pas noter = 0 !
 
 ## ⌨ License
   

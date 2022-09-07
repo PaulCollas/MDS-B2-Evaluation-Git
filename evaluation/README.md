@@ -41,7 +41,6 @@ Pour rappel la création d'une branche doit contenir :
 - **Partie Code** /10
 - Respect de la sémantique HTML CSS /2
 - Commentaires dans le code /1
-- 
 
 - **Bonus** :  
     * Rendre le menu responsive (avec un menu hamburger) /2

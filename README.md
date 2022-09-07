@@ -52,6 +52,10 @@ Ce repository comprends les différentes documentations de cours, les différent
 
 > git push
 
+- Récupérer les fichier dans le dépôt distant :
+
+> git pull
+
 
 ## ⌨ License
   

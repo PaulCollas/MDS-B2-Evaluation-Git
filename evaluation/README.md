@@ -33,10 +33,10 @@ L'intégration de ce site respectera :
 
 
 Pour rappel la création d'une branche doit contenir :
-    * Un titre clair, exemple : "création du menu de naviation"
-    * Une description clair et qui fait comprendre ce qui va être fait qsur cette branche, exemple : "Création d'un menu avec les balises ul li, quatres li ..."
-    * Une personne associée à la branche (sur la droite)
-    * Un label : A faire, En cours, Fini (sur la droite)
+    - Un titre clair, exemple : "création du menu de naviation"
+    - Une description clair et qui fait comprendre ce qui va être fait qsur cette branche, exemple : "Création d'un menu avec les balises ul li, quatres li ..."
+    - Une personne associée à la branche (sur la droite)
+    - Un label : A faire, En cours, Fini (sur la droite)
 
 ### Partie Code /10
 - Respect de la sémantique HTML CSS /6

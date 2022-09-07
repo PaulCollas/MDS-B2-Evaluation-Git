@@ -49,9 +49,9 @@ Pour rappel la création d'une branche doit contenir :
 
 ## 🌍 Conditions
 
-**L'évaluation se fait en binôme.**
-Date de rendu final : **11/10/2022**
-N'oubliez pas de m'ajouter en tant qu'**administrateur** sur votre projet, sinon je ne pourrais pas noter = 0 !
+- **L'évaluation se fait en binôme.**
+- Date de rendu final : **11/10/2022**
+- N'oubliez pas de m'ajouter en tant qu'**administrateur** sur votre projet, sinon je ne pourrais pas noter = 0 !
 
 ## ⌨ License
   

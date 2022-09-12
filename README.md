@@ -56,6 +56,14 @@ Ce repository comprends les différentes documentations de cours, les différent
 
 > git pull
 
+- Changer de branche :
+
+> git checkout nomdelabranche
+
+- Merger la branche sur une autre :
+
+> git merge nomdelabranche
+
 
 ## ⌨ License
   

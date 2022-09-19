@@ -54,22 +54,19 @@ Pour rappel la création d'une branche doit contenir :
 
 Voici la maquette pour le projet :
 
-![Maquette-1](/eval/MDS-B2-Evaluation-Git/evaluation/maquette/1.PNG)
+![Maquette-1](maquette/1.PNG)
 
-![Maquette-2](/eval/MDS-B2-Evaluation-Git/evaluation/maquette/2.PNG)
-
-
-![Maquette-3](/eval/MDS-B2-Evaluation-Git/evaluation/maquette/3.PNG)
+![Maquette-2](maquette/2.PNG)
 
 
-![Maquette-4](/eval/MDS-B2-Evaluation-Git/evaluation/maquette/4.PNG)
+![Maquette-3](maquette/3.PNG)
 
 
-![Maquette-5](/eval/MDS-B2-Evaluation-Git/evaluation/maquette/5.PNG)
+![Maquette-5](maquette/5.PNG)
 
-![Maquette-6](/eval/MDS-B2-Evaluation-Git/evaluation/maquette/6.PNG)
+![Maquette-6](maquette/6.PNG)
 
-![Maquette-7](/eval/MDS-B2-Evaluation-Git/evaluation/maquette/7.PNG)
+![Maquette-7](maquette/7.PNG)
 
 
 

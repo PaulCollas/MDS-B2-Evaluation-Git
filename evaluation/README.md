@@ -74,6 +74,7 @@ Voici la maquette pour le projet :
 ## 🌍 Conditions
 
 - **L'évaluation se fait en binôme.**
+- **Un repository public devra être créer**
 - Date de rendu final : **11/10/2022**
 - N'oubliez pas de m'ajouter en tant qu'**administrateur** sur votre projet, sinon je ne pourrais pas noter = 0 !
 

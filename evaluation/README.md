@@ -50,6 +50,30 @@ Pour rappel la création d'une branche doit contenir :
     * Tout le projet est en anglais /1
     * Autres démarches (exemple : merge request, ...) sera récompensés
 
+## 💾 Maquette 
+
+Voici la maquette pour le projet :
+
+![Maquette-1](/eval/MDS-B2-Evaluation-Git/evaluation/maquette/1.PNG)
+
+![Maquette-2](/eval/MDS-B2-Evaluation-Git/evaluation/maquette/2.PNG)
+
+
+![Maquette-3](/eval/MDS-B2-Evaluation-Git/evaluation/maquette/3.PNG)
+
+
+![Maquette-4](/eval/MDS-B2-Evaluation-Git/evaluation/maquette/4.PNG)
+
+
+![Maquette-5](/eval/MDS-B2-Evaluation-Git/evaluation/maquette/5.PNG)
+
+![Maquette-6](/eval/MDS-B2-Evaluation-Git/evaluation/maquette/6.PNG)
+
+![Maquette-7](/eval/MDS-B2-Evaluation-Git/evaluation/maquette/7.PNG)
+
+
+
+
 ## 🌍 Conditions
 
 - **L'évaluation se fait en binôme.**

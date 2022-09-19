@@ -22,6 +22,7 @@ Ce repository comprends les différentes documentations de cours, les différent
 
 - Le cours sur git / github :
 
+https://www.canva.com/design/DAFLYywZY-0/88KeOZbMw1Fek0GeYkv7Mg/view?utm_content=DAFLYywZY-0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#11
 
 - Le cours sur HTML CSS : 
 

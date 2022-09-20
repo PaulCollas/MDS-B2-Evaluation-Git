@@ -17,7 +17,7 @@ L'intégration de ce site respectera :
 
 ## 🎈 Les assets du projet 
 
-Couleur bleu principale : #28b75c
+Couleur bleu principale : #28b7C5
 
 Couleur grise pour les titres et textes : #453b3a
 

@@ -17,6 +17,11 @@ L'intégration de ce site respectera :
 
 ## 🎈 Les assets du projet 
 
+Couleur bleu principale : #28b75c
+Couleur grise pour les titres et textes : #453b3a
+
+Les images et logos sont dans le dossier **assets**
+
 ## 🔍 Le barème de l'évaluation
 
 ### Partie GIT / Github /10

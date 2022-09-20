@@ -51,7 +51,7 @@ CSS:
 ```
 
 
-Les séparateurs bleus : 
+Les **séparateurs** bleus : 
 
 HTML :
 ```

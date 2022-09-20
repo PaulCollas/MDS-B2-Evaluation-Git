@@ -26,6 +26,8 @@ https://www.canva.com/design/DAFLYywZY-0/88KeOZbMw1Fek0GeYkv7Mg/view?utm_content
 
 - Le cours sur HTML CSS : 
 
+https://www.canva.com/design/DAFMXEhXAjw/pSlMhOqhJDch2V5QlghCGg/view?utm_content=DAFMXEhXAjw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
 
 ## 🎮 Les commandes de bases de l'utilisation de git (rappel)
 

@@ -88,6 +88,10 @@ Voici la maquette pour le projet :
 ## 🌍 Conditions
 
 - **L'évaluation se fait en binôme.**
+
+Le tableau des groupes :
+https://docs.google.com/spreadsheets/d/1WUdi-Rh_EUuyLIDA5pAq_IqAkkyIIlwXkQ2KIYlkhXk/edit?usp=sharing
+
 - **Un repository public devra être créer**
 - Date de rendu final : **11/10/2022**
 - N'oubliez pas de m'ajouter en tant qu'**administrateur** sur votre projet, sinon je ne pourrais pas noter = 0 !

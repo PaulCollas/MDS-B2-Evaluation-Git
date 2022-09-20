@@ -34,11 +34,13 @@ Le liens des **icônes** :
 
 Les **carrés bleues** de la maquette : 
 
-```html
+HTML:
+```
 <span class="square"></span>
 ```
 
-``css
+CSS:
+```
   .square {
     height: 12px;
     width: 12px;
@@ -51,7 +53,8 @@ Les **carrés bleues** de la maquette :
 
 Les séparateurs bleus : 
 
-```html
+HTML :
+```
 <div class="line">
   <span class="line-1"></span><br />
   <span class="line-2"></span><br />
@@ -59,7 +62,8 @@ Les séparateurs bleus :
 </div>
 ```
 
-``css
+CSS :
+```
   .line-1 {
     width: 15px;
     height: 15px;

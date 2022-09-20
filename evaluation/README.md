@@ -31,6 +31,62 @@ Le liens des **icônes** :
 - Linkedin : https://i.ibb.co/McBfhth/linkedin.png 
 - Twitter : https://i.ibb.co/4WhZWZm/twitter.png
 
+
+Les **carrés bleues** de la maquette : 
+
+```html
+<span class="square"></span>
+```
+
+``css
+  .square {
+    height: 12px;
+    width: 12px;
+    display: inline-block;
+    background: #28B7C5;
+    margin: 15px 0;
+  }
+```
+
+
+Les séparateurs bleus : 
+
+```html
+<div class="line">
+  <span class="line-1"></span><br />
+  <span class="line-2"></span><br />
+  <span class="line-3"></span>
+</div>
+```
+
+``css
+  .line-1 {
+    width: 15px;
+    height: 15px;
+    background: #28B7C5;
+    display: inline-block;
+  }
+  
+  .line-2 {
+    width: 80px;
+    height: 1px;
+    background: #28B7C5;
+    display: inline-block;
+  }
+  
+  .line-3 {
+    width: 60px;
+    height: 1px;
+    background: #28B7C5;
+    display: inline-block;
+  }
+  
+  .line {
+    line-height: 8px;
+  }
+```
+
+
 ## 🔍 Le barème de l'évaluation
 
 ### Partie GIT / Github /10

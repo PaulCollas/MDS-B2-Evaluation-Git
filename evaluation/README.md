@@ -18,9 +18,18 @@ L'intégration de ce site respectera :
 ## 🎈 Les assets du projet 
 
 Couleur bleu principale : #28b75c
+
 Couleur grise pour les titres et textes : #453b3a
 
 Les images et logos sont dans le dossier **assets**
+
+Le liens des **icônes** : 
+(Mettre les liens des réseaux sociaux de MDS !)
+
+- Facebook : https://i.ibb.co/GcySvw1/facebook.png   
+- Instagram : https://i.ibb.co/wYP3k9k/instagram.png
+- Linkedin : https://i.ibb.co/McBfhth/linkedin.png 
+- Twitter : https://i.ibb.co/4WhZWZm/twitter.png
 
 ## 🔍 Le barème de l'évaluation
 
